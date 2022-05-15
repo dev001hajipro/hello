@@ -13,6 +13,6 @@ func main() {
 
 	fmt.Println(quote.Go())
 
-	message := greetings.Hello("john")
+	message := greetings.Hello("とむ")
 	fmt.Println(message)
 }
